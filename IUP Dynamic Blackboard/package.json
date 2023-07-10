@@ -1,0 +1,12 @@
+{
+  "name": "com.iup.dynamic-blackboard",
+  "version": "1.0.0",
+  "displayName": "IUP Dynamic Blackboard",
+  "description": "Пакет, реализующий сериализуемую Unity структуру, позволяющую хранить набор данных любого типа, сериализуемого Unity.",
+  "author": {
+    "name": "PostEnot",
+    "email": "ve.vyshegorodsky.cold@gmail.com",
+    "url": "https://t.me/ProcyonNihil"
+  },
+  "type": "library"
+}

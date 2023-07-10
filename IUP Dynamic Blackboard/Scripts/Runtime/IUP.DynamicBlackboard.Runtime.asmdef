@@ -1,0 +1,16 @@
+{
+    "name": "IUP.DynamicBlackboard.Runtime",
+    "rootNamespace": "IUP.Toolkits.DynamicBlackboard",
+    "references": [
+        "GUID:23710380ea4a23940b8551abaac72858"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
